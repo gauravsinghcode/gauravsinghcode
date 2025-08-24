@@ -45,7 +45,7 @@ I’m a passionate developer eager to build smart, secure, and user-friendly app
 
 ---
 
-## 💡 Practice Projects
+## 💡 Projects
 
 ### 1. 🔐 KeyForge  
 *Crafting Unbreakable Digital Keys*
