@@ -139,11 +139,6 @@ to stay ahead of the curve
 </tr></table>
 </div>
 
-## 📈 GitHub Stats
-
-![Gaurav's GitHub stats](https://github-readme-stats.vercel.app/api?username=gauravsinghcode&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gauravsinghcode&layout=compact&theme=radical)
-
 ---
 
 ## 📫 Let's Connect!
