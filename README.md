@@ -5,6 +5,7 @@
 - 🎓 **B.Tech 3rd Year Student**
 - 📍 Agra, Uttar Pradesh, India
 - 📫 Email: [Gauravsingh.code@gmail.com](mailto:Gauravsingh.code@gmail.com)
+- Portfolio: Gauravsinghcode.github.io/gaurav-portfolio
 - 🌐 [LinkedIn](https://www.linkedin.com/in/gaurav-singh-7bb6b42b8)
 
 ---
