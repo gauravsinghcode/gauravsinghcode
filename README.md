@@ -45,4 +45,5 @@ Metadata-driven backend engine that dynamically generates CRUD operations based 
 ## 📫 Contact
 
 - Email: gauravsingh.code@gmail.com  
-- LinkedIn: https://linkedin.com/in/your-link
+- LinkedIn: https://www.linkedin.com/in/gauravsinghcode/
+- Portfolio: https://gauravsinghcode.github.io/gaurav-portfolio/
